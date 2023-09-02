@@ -1,5 +1,6 @@
 # So we made a online web platform where you can create,edit, upload,delete your notes/information privately and securely without any disturbancee,you can also access your notes anywhere in your world,at anytime time.
 
+#Tools:- ReactcJs,Bootstrap,MongoDB,Byscriot,JWt,salting etc...
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
